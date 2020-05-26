@@ -1,14 +1,12 @@
 import React from 'react';
-import './App.css';
-import './components/SearchMovies'
 import SearchMovies from './components/SearchMovies';
+import './style/Style.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Movie Search App</h1>
+    <div className="appContainer">
+      <h1 className='title'>Movie Search App</h1>
       <SearchMovies />
-
     </div>
   );
 }
