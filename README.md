@@ -2,7 +2,7 @@
 A movie search app using REACT and theMovieDatabase API (https://www.themoviedb.org/)
 
 ## Preview
-![MovieSearchAppPreview](Movie Search App Preview.png)
+![MovieSearchAppPreview](Preview.png)
 
 
 ==================================================================================================================
