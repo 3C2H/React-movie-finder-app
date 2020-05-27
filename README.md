@@ -1,8 +1,11 @@
 # React-movie-finder-app
 A movie search app using REACT and theMovieDatabase API (https://www.themoviedb.org/)
 
+## Preview
+![MovieSearchAppPreview](./public/Movie Search App Preview.png)
 
-=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+==================================================================================================================
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
