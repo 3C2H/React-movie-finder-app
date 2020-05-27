@@ -40,7 +40,7 @@ function SearchMovies() {
         </input>
         <button className='button' type='submit'>Search</button>
       </form>
-      <div className='cards-list'>
+      <div className='card-list'>
         {movies.filter(movie => movie.poster_path).map(movie => (
           <div className='card' key={movie.id}>
             <img className='card--image'
